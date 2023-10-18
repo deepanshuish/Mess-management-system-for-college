@@ -1,0 +1,1 @@
+# In this project, I have made a mess management system for our college which help the students buying mess coupons, showing net balance remaining and also shows menu. I have used python programming for this and used its libraries like numpy, pandas and pytorch etc.
